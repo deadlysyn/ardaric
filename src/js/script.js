@@ -136,3 +136,4 @@ jQuery(function($) {
 		$('#wrapper').fitVids();
 	}
 	video();
+});
