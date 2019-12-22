@@ -1,39 +1,22 @@
 # Ardaric
 
-This [Ghost](https://github.com/tryghost/ghost) theme is an opinionated fork of [Attila](https://attila.zutrinken.com). Still aiming to be content-focussed and responsive, with minor tweaks based on personal preferences and performance optimized.
-
-## Screenshots
-
-<table>
-<tr>
-<td valign="top">
-<img src="https://raw.githubusercontent.com/zutrinken/attila/master/src/screenshot-desktop.jpg" />
-</td>
-<td valign="top">
-<img src="https://raw.githubusercontent.com/zutrinken/attila/master/src/screenshot-mobile.jpg" />
-</td>
-</tr>
-</table>
+This [Ghost](https://github.com/tryghost/ghost) theme is an opinionated fork of [Attila](https://attila.zutrinken.com). Still aiming to be content-focussed and responsive, with minor tweaks based on personal preferences and performance.
 
 ## Features
 
 Maintained Attila features:
 
 * Responsive layout
-* Parallax cover images for blog, archives and posts
-* Reading progress for posts
+* Parallax cover images for blog, archives and posts (plan to convert to CSS)
+* Reading progress for posts (brightened color)
 * Automatic line numbers for code snippets
-* Disqus support
 
 Tweaks:
 
-* Use system font stack
+* Use system font stack vs web fonts
 * Don't auto-highlight code snippets (I prefer Prism.js)
 * More responsive scaling
-
-## Setup
-
-To enable [Disqus](https://disqus.com/) comments go to your blogs code injection settings and add `<script>var disqus = 'YOUR_DISQUS_SHORTNAME';</script>` to your blog header.
+* Removed Disqus support (TBD)
 
 ## Development
 
