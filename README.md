@@ -14,9 +14,10 @@ Maintained Attila features:
 Tweaks:
 
 * Use system font stack vs web fonts
-* Don't auto-highlight code snippets (I prefer Prism.js)
-* More responsive scaling
-* Removed Disqus support (TBD)
+* Don't auto-highlight code snippets (I prefer [Prism.js](https://prismjs.com))
+* More responsive scaling (based on viewport width)
+* Removed Disqus support
+* Recolor based on Material UI (WIP)
 
 ## Development
 
