@@ -1,0 +1,42 @@
+@font-face {
+  font-family: "system";
+  // font-style: normal;
+  // font-weight: 400;
+  src: "system-ui", local("Segoe UI"), local("Roboto"), local("Helvetica"),
+    local("Arial"), sans-serif, local("Apple Color Emoji"),
+    local("Segoe UI Emoji"), local("Segoe UI Symbol");
+}
+// @font-face {
+//   font-family: "system";
+//   font-style: italic;
+//   font-weight: 400;
+//   src: "system-ui", local("Segoe UI"), local("Roboto"), local("Helvetica"),
+//     local("Arial"), sans-serif, local("Apple Color Emoji"),
+//     local("Segoe UI Emoji"), local("Segoe UI Symbol");
+// }
+// @font-face {
+//   font-family: "system";
+//   font-style: bold;
+//   font-weight: 700;
+//   src: "system-ui", local("Segoe UI"), local("Roboto"), local("Helvetica"),
+//     local("Arial"), sans-serif, local("Apple Color Emoji"),
+//     local("Segoe UI Emoji"), local("Segoe UI Symbol");
+// }
+@font-face {
+  font-family: "mono";
+  // font-style: normal;
+  // font-weight: 400;
+  src: local("Consolas"), local("Menlo"), local("Courier"), monospace;
+}
+// @font-face {
+//   font-family: "mono";
+//   font-style: normal;
+//   font-weight: 500;
+//   src: local("Consolas"), local("Menlo"), local("Courier"), monospace;
+// }
+// @font-face {
+//   font-family: "mono";
+//   font-style: normal;
+//   font-weight: 700;
+//   src: local("Consolas"), local("Menlo"), local("Courier"), monospace;
+// }
